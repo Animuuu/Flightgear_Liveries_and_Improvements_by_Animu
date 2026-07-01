@@ -9,7 +9,7 @@
   <model>        
     <livery>
 	<name type="string">JAL JA876J</name>
-      <texture-fuselage>Liveries-9/GEnx/JAL.png</texture-fuselage>
+      <texture-fuselage>Liveries-8/GEnx/JAL.png</texture-fuselage>
        <texture-engines>Liveries-engines/GEnx.png</texture-engines>
     </livery>
   </model>
