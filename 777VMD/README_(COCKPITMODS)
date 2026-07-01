@@ -6,3 +6,4 @@ the Cockpit folder of the 777VMD.
 To get the renewed CDU and PFD fonts, download all the fonts in the fonts folder in the github, and then paste it all to the 
 fonts folder of the 777VMD. After placing the fonts, download the entire cdu stuffs in this github and passte it to the cdu folder of the 
 777VMD, and yeah, do the same process for the PFD and EICAS as well. 
+INSTRUCTIONS STILL WIP AS OF 7.1.26
