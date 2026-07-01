@@ -1,0 +1,8 @@
+===== FOR CHANGING TEXTURING AND COCKPIT LETTERING FONTS =====
+To get the lettering fonts (futura) and changes for the cockpit, download everything in the Cockpit folder of this repo and paste it to 
+the Cockpit folder of the 777VMD. 
+
+===== FOR CHANGING CDU, PFD, EICAS STUFFS =====
+To get the renewed CDU and PFD fonts, download all the fonts in the fonts folder in the github, and then paste it all to the 
+fonts folder of the 777VMD. After placing the fonts, download the entire cdu stuffs in this github and passte it to the cdu folder of the 
+777VMD, and yeah, do the same process for the PFD and EICAS as well. 
