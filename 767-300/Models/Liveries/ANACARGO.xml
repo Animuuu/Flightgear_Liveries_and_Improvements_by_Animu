@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">ANA Cargo JA601F</name>
+            <texture>Liveries/JA601F.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
